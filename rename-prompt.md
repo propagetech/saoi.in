@@ -44,13 +44,6 @@ Files and context:
     }
   },
   {
-    "path": "Zonal-Chapter_02.html",
-    "context": {
-      "title": "Zonal Chapter - 02 | SAOI",
-      "first_heading": "Committee Members of Zonal Chapter - 02(Mandya, Mysore, Hassan)"
-    }
-  },
-  {
     "path": "activities.html",
     "context": {
       "title": "Activities | Silk Association Of India",
@@ -58,10 +51,31 @@ Files and context:
     }
   },
   {
-    "path": "blog_------------------------------------------------------------------------------------------source-from-daily-hunt.html",
+    "path": "blog-exclusive-sericulture-startup-mori-raises-12m-series-a-to-preserve-food-with-silk.html",
+    "context": {
+      "title": "EXCLUSIVE: Sericulture startup Mori raises $12m Series A to preserve food with silk",
+      "first_heading": "EXCLUSIVE: Sericulture startup Mori raises $12m Series A to preserve food with silk"
+    }
+  },
+  {
+    "path": "blog-smriti-irani-says-textiles-sector-should-stop-seeking-packages-govt-finances-already-strained-source-business-today.html",
+    "context": {
+      "title": "Smriti Irani says textiles sector should stop seeking packages, govt finances already strained | Source - Business Today",
+      "first_heading": "Smriti Irani says textiles sector should stop seeking packages, govt finances already strained | Source - Business Today"
+    }
+  },
+  {
+    "path": "blog-source-from-daily-hunt.html",
     "context": {
       "title": "\u0cae\u0cb2\u0ccd\u0cac\u0cc6\u0cb0\u0cbf \u0cae\u0cbe\u0ca8\u0cb5 \u0ca6\u0cc7\u0cb9\u0ca6 \u0c95\u0cbe\u0cb5\u0cb2\u0cc1\u0c97\u0cbe\u0cb0\u0ca8\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb0\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6, \u0ca6\u0cc7\u0cb9\u0c95\u0ccd\u0c95\u0cc6 \u0c95\u0cb0\u0ccb\u0ca8\u0cbe \u0caa\u0ccd\u0cb0\u0cb5\u0cc7\u0cb6\u0cbf\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca4\u0ca1\u0cc6\u0caf\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6 | Source From Daily Hunt",
       "first_heading": "\u0cae\u0cb2\u0ccd\u0cac\u0cc6\u0cb0\u0cbf \u0cae\u0cbe\u0ca8\u0cb5 \u0ca6\u0cc7\u0cb9\u0ca6 \u0c95\u0cbe\u0cb5\u0cb2\u0cc1\u0c97\u0cbe\u0cb0\u0ca8\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb0\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6, \u0ca6\u0cc7\u0cb9\u0c95\u0ccd\u0c95\u0cc6 \u0c95\u0cb0\u0ccb\u0ca8\u0cbe \u0caa\u0ccd\u0cb0\u0cb5\u0cc7\u0cb6\u0cbf\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca4\u0ca1\u0cc6\u0caf\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6 | Source From Daily Hunt"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "\u0c9a\u0cc0\u0ca8 \u0cb0\u0cc7\u0cb7\u0ccd\u0cae\u0cc6\u0c97\u0cc6 \u0c95\u0ca1\u0cbf\u0cb5\u0cbe\u0ca3, \u0cb0\u0cc8\u0ca4\u0cb0\u0cbf\u0c97\u0cc6 \u0cb5\u0cb0?",
+      "first_heading": "\u0c9a\u0cc0\u0ca8 \u0cb0\u0cc7\u0cb7\u0ccd\u0cae\u0cc6\u0c97\u0cc6 \u0c95\u0ca1\u0cbf\u0cb5\u0cbe\u0ca3, \u0cb0\u0cc8\u0ca4\u0cb0\u0cbf\u0c97\u0cc6 \u0cb5\u0cb0?"
     }
   },
   {
@@ -79,27 +93,6 @@ Files and context:
     }
   },
   {
-    "path": "blog_--------------------------------.html",
-    "context": {
-      "title": "\u0c9a\u0cc0\u0ca8 \u0cb0\u0cc7\u0cb7\u0ccd\u0cae\u0cc6\u0c97\u0cc6 \u0c95\u0ca1\u0cbf\u0cb5\u0cbe\u0ca3, \u0cb0\u0cc8\u0ca4\u0cb0\u0cbf\u0c97\u0cc6 \u0cb5\u0cb0?",
-      "first_heading": "\u0c9a\u0cc0\u0ca8 \u0cb0\u0cc7\u0cb7\u0ccd\u0cae\u0cc6\u0c97\u0cc6 \u0c95\u0ca1\u0cbf\u0cb5\u0cbe\u0ca3, \u0cb0\u0cc8\u0ca4\u0cb0\u0cbf\u0c97\u0cc6 \u0cb5\u0cb0?"
-    }
-  },
-  {
-    "path": "blog_exclusive--sericulture-startup-mori-raises--12m-series-a-to-preserve-food-with-silk.html",
-    "context": {
-      "title": "EXCLUSIVE: Sericulture startup Mori raises $12m Series A to preserve food with silk",
-      "first_heading": "EXCLUSIVE: Sericulture startup Mori raises $12m Series A to preserve food with silk"
-    }
-  },
-  {
-    "path": "blog_smriti-irani-says-textiles-sector-should-stop-seeking-packages--govt-finances-already-strained---source---business-today.html",
-    "context": {
-      "title": "Smriti Irani says textiles sector should stop seeking packages, govt finances already strained | Source - Business Today",
-      "first_heading": "Smriti Irani says textiles sector should stop seeking packages, govt finances already strained | Source - Business Today"
-    }
-  },
-  {
     "path": "blogs.html",
     "context": {
       "title": "Our Blogs | Silk Association Of India",
@@ -107,7 +100,7 @@ Files and context:
     }
   },
   {
-    "path": "contact_us.html",
+    "path": "contact-us.html",
     "context": {
       "title": "Contact Us | Silk Association Of India",
       "first_heading": "CONTACT US"
@@ -168,7 +161,7 @@ Files and context:
     }
   },
   {
-    "path": "executive_commitee.html",
+    "path": "executive-commitee.html",
     "context": {
       "title": "Executive Committee Member | Silk Association Of India",
       "first_heading": "EXECUTIVE COMMITTEE MEMBERS"
@@ -226,11 +219,11 @@ Files and context:
     "context": {
       "refs": [
         {
-          "alt": "deafcdfeebfcdedfbceed",
+          "alt": "blog-thumb-1",
           "title": ""
         },
         {
-          "alt": "blog-thumb-1",
+          "alt": "deafcdfeebfcdedfbceed",
           "title": ""
         }
       ]
@@ -1044,15 +1037,15 @@ Files and context:
     "context": {
       "refs": [
         {
-          "alt": "deafcdfeebfcdedfbceed",
-          "title": ""
-        },
-        {
           "alt": "",
           "title": ""
         },
         {
           "alt": "blog-thumb-1",
+          "title": ""
+        },
+        {
+          "alt": "deafcdfeebfcdedfbceed",
           "title": ""
         }
       ]
@@ -1318,55 +1311,55 @@ Files and context:
           "title": ""
         },
         {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
           "alt": "",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
           "title": ""
         },
         {
@@ -1719,7 +1712,7 @@ Files and context:
     }
   },
   {
-    "path": "news_bulletin.html",
+    "path": "news-bulletin.html",
     "context": {
       "title": "News Bulletin | Silk Association Of India",
       "first_heading": "NEWS BULLETIN"
@@ -1740,52 +1733,59 @@ Files and context:
     }
   },
   {
-    "path": "president_desk.html",
+    "path": "president-desk.html",
     "context": {
       "title": "President Desk | Silk Association Of India",
       "first_heading": "PRESIDENT DESK"
     }
   },
   {
-    "path": "product_10thChemistryCBSE.html",
+    "path": "product-10thchemistrycbse.html",
     "context": {
       "title": "10 th Chemistry | CBSE",
       "first_heading": "10 th Chemistry | CBSE"
     }
   },
   {
-    "path": "product_PUChemistry.html",
+    "path": "product-puchemistry.html",
     "context": {
       "title": "PU Chemistry",
       "first_heading": "PU Chemistry"
     }
   },
   {
-    "path": "sai_achivement_02.html",
+    "path": "sai-achivement-02.html",
     "context": {
       "title": "SAOI Achievements | Silk Association Of India",
       "first_heading": "ACHIEVEMENTS OF SAI"
     }
   },
   {
-    "path": "sai_application_form.html",
+    "path": "sai-application-form.html",
     "context": {
       "title": "SAI Membership Application | Silk Association Of India",
       "first_heading": "SILK ASSOCIATION OF INDIAMEMBERSHIP APPLICATION FORM"
     }
   },
   {
-    "path": "saoi_volume.html",
+    "path": "saoi-volume.html",
     "context": {
       "title": "SAI Newsletter | Silk Association Of India",
       "first_heading": "SILK ASSOCIATION OF INDIA (SAI)NEWSLETTER"
     }
   },
   {
-    "path": "workshops_seminars.html",
+    "path": "workshops-seminars.html",
     "context": {
       "title": "Gallery | Silk Association Of India",
       "first_heading": "WORKSHOP & SEMINARS"
+    }
+  },
+  {
+    "path": "zonal-chapter-02.html",
+    "context": {
+      "title": "Zonal Chapter - 02 | SAOI",
+      "first_heading": "Committee Members of Zonal Chapter - 02(Mandya, Mysore, Hassan)"
     }
   }
 ]
